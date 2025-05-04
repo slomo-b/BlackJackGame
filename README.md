@@ -1,3 +1,4 @@
+# About
 A small and very simple BalckJack App ive made on my Scrimba Journey to become a professional Web Developer.
 Ive changed the css and added two new functions.
 ive added the bet() function which is called everytime the startGame() function gets called so 5 coins will be taken from the player.
