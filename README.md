@@ -1,3 +1,12 @@
+A small and very simple BalckJack App ive made on my Scrimba Journey to become a professional Web Developer.
+Ive changed the css and added two new functions.
+ive added the bet() function which is called everytime the startGame() function gets called so 5 coins will be taken from the player.
+then ive added a win() function as well which gets called if blackjack gets logged which adds ten coins to the player object.
+
+you can check the app out here: 
+
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
