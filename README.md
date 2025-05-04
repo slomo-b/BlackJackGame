@@ -3,7 +3,8 @@ Ive changed the css and added two new functions.
 ive added the bet() function which is called everytime the startGame() function gets called so 5 coins will be taken from the player.
 then ive added a win() function as well which gets called if blackjack gets logged which adds ten coins to the player object.
 
-you can check the app out here: 
+you can check the app out here: https://astonishing-youtiao-0073d6.netlify.app/
+
 
 
 
